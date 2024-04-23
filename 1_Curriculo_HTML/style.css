@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: black; /* Fundo preto */
+    color: white; /* Cor padrão do texto em verde neon */
+}
+
+header, section, footer {
+    margin-bottom: 20px;
+}
+
+h1, h2, h3, a {
+    color: #29FF70; /* Títulos e links em branco */
+}
+
+h2 {
+    border-bottom: 1px solid #29FF70; /* Linha sob os subtítulos em verde neon */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none; /* Remove o sublinhado dos links */
+    color: #29FF70; /* Cor dos links em verde neon */
+}
+
+a:hover {
+    color: white; /* Cor dos links ao passar o mouse em branco */
+}
